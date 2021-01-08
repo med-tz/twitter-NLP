@@ -1,8 +1,8 @@
 # Twitter sentiment analysis
 This project is a part of a School project.
-My other projects will be porgressively uploaded at the [main GitHub repo](https://github.com/anisfakhfakh).
 
-#### -- Project Status: [Active]
+
+#### -- Project Status:
 
 ## Project Objective
 The objective of this project is to build a model capable of predicting the sentiment of a tweet from a labeled dataset using Machine learning and natural language processing techniques. 
